@@ -1,20 +1,33 @@
+* {
+    outline: 1px soild red;
+}
+
 body {
     height: 100px;
 }
 
 .jumbotron {
-    background-image: url(https://unsplash.com/?photo=2MCJTNj8G-4);
+    background-image: url("nsphttps://ulash.com/?photo=2MCJTNj8G-4");
     text-align: center;
     background-size: cover;
     color: black;
+    background-size: cover;
+    height: 100%;
 }
 
+
+/* .jumbotron {
+    background-image: url("https://unsplash.com/?photo=2MCJTNj8G-4");
+    background-size: cover;
+    height: 100%;
+} */
+
 .jumbotron1 {
-    background-image: url(https://static.pexels.com/photos/102662/pexels-photo-102662.jpeg);
+    background-image: url("https://static.pexels.com/photos/102662/pexels-photo-102662.jpeg");
 }
 
 .jumbotron2 {
-    background-image: url(https://static.pexels.com/photos/296884/pexels-photo-296884.jpeg);
+    background-image: url("https://static.pexels.com/photos/296884/pexels-photo-296884.jpeg");
     text-align: center;
     background-size: cover;
 }
@@ -51,7 +64,7 @@ body {
 }
 
 .jumbotron p {
-    color: white;
+    color: black;
 }
 
 .jumbotron .moto {
